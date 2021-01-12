@@ -3,6 +3,7 @@
 - [Reinforced concrete structures](#reinforced-concrete)
 - [Steel-frame Structures](#steel-frame)
 - [Steel-concrete composite Structures](#steel-concrete)
+- [Analytical Model](#steel-concrete)
 
 <a name="reinforced-concrete" />
 
@@ -18,3 +19,8 @@
 <a name="steel-frame" />
 
 ## Steel Frame Structures
+
+
+<a name="analytical-model" />
+
+## Analytical Model
