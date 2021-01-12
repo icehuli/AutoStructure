@@ -1,7 +1,20 @@
 # Building-Structural-Design-Automation-And-Optimization
 
-[Slab-Beam-Wall-Column Structure](#slab-beam-wall-column)
+[Reinforced concrete structures](#reinforced-concrete)
+[Steel-frame Structures](#steel-frame)
+[Steel-concrete composite Structures](#steel-concrete)
 
-<a name="slab-beam-wall-column" />
+<a name="reinforced-concrete" />
 
-## Slab-Beam-Wall-Column Structure
+## Reinforced concrete Structures
+
+
+
+<a name="steel-concrete" />
+
+## Steel-Concrete Composite Structures
+
+
+<a name="steel-frame" />
+
+## Steel Frame Structures
